@@ -83,7 +83,7 @@ Follow these steps to set up the data science environment and run the pipeline l
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone 
 cd your-credit-risk-repo
 ```
 
